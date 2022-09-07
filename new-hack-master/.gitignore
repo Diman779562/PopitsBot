@@ -1,0 +1,82 @@
+hack-template/.bsp
+hack-template/.DS_Store
+hack-template/.idea
+hack-template/**/target
+hack-template/target
+hack-template/project/target
+hack-template/project/project
+
+PopitsBot/HELP.md
+PopitsBot/target/
+PopitsBot/!.mvn/wrapper/maven-wrapper.jar
+PopitsBot/!**/src/main/**/target/
+PopitsBot/!**/src/test/**/target/
+
+### STS ###
+PopitsBot/.apt_generated
+PopitsBot/.classpath
+PopitsBot/.factorypath
+PopitsBot/.project
+PopitsBot/.settings
+PopitsBot/.springBeans
+PopitsBot/.sts4-cache
+
+### IntelliJ IDEA ###
+PopitsBot/.idea
+PopitsBot/*.iws
+PopitsBot/*.iml
+PopitsBot/*.ipr
+
+### NetBeans ###
+PopitsBot//nbproject/private/
+PopitsBot//nbbuild/
+PopitsBot//dist/
+PopitsBot//nbdist/
+PopitsBot//.nb-gradle/
+PopitsBot/build/
+PopitsBot/!**/src/main/**/build/
+PopitsBot/!**/src/test/**/build/
+
+### VS Code ###
+PopitsBot/.vscode/
+hack-template/.bsp
+hack-template/.DS_Store
+hack-template/.idea
+hack-template/**/target
+hack-template/target
+hack-template/project/target
+hack-template/project/project
+
+PopitsBot/HELP.md
+PopitsBot/target/
+PopitsBot/!.mvn/wrapper/maven-wrapper.jar
+PopitsBot/!**/src/main/**/target/
+PopitsBot/!**/src/test/**/target/
+
+### STS ###
+PopitsBot/.apt_generated
+PopitsBot/.classpath
+PopitsBot/.factorypath
+PopitsBot/.project
+PopitsBot/.settings
+PopitsBot/.springBeans
+PopitsBot/.sts4-cache
+
+### IntelliJ IDEA ###
+PopitsBot/.idea
+PopitsBot/*.iws
+PopitsBot/*.iml
+PopitsBot/*.ipr
+
+### NetBeans ###
+PopitsBot//nbproject/private/
+PopitsBot//nbbuild/
+PopitsBot//dist/
+PopitsBot//nbdist/
+PopitsBot//.nb-gradle/
+PopitsBot/build/
+PopitsBot/!**/src/main/**/build/
+PopitsBot/!**/src/test/**/build/
+
+### VS Code ###
+PopitsBot/.vscode/
